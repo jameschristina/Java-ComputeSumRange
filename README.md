@@ -18,7 +18,8 @@ This Java program is used to compute the range sum of user-defined input. It pro
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/df7xD8J.png" height="80%" width="80%" alt=""/>
+<img width="80%" height="80%" alt="" src="https://github.com/user-attachments/assets/f5411d55-8373-4147-b806-edf7325ea75c" />
+
 <br />
 
 
